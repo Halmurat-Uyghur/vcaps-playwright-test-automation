@@ -16,3 +16,5 @@
 7.@Info annotation that can help extent report info writing. ( annotation used aspectjs)
 
 8.Component classes for elements -> Button, DataTable, InputBox, SelectDropdown, DatePicker ...
+
+9.Google Guice
