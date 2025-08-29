@@ -1,11 +1,18 @@
-# vcaps-playwright-test-automation
+## vcaps-playwright-test-automation
 
 
-Java 21
-Playwright
-Maven
-ExtentReport
-Thread-safe
-ParallelExecutable
-@Info annotation that can help extent report info writing. ( annotation used aspectjs)
-Component classes for elements -> Button, DataTable, InputBox, SelectDropdown, DatePicker ...
+1.Java 21
+
+2.Playwright
+
+3.Maven
+
+4.ExtentReport
+
+5.Thread-safe
+
+6.ParallelExecutable
+
+7.@Info annotation that can help extent report info writing. ( annotation used aspectjs)
+
+8.Component classes for elements -> Button, DataTable, InputBox, SelectDropdown, DatePicker ...
